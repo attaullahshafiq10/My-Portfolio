@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "Hafiz Muhammad Attaullah",
+    "label": "Student",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "attaullahshafiq10@gmail.com",
+    "phone": "+923163116336",
+    "website": "https://github.com/attaullahshafiq10",
+    "summary": "I am studying for a Bachelors in Telecommunications in the Faculty of Engineering & Technology at the University of Sindh. I expect to graduate in Spring, 2021.",
+    "location": {
+      "address": "",
+      "postalCode": "75500",
+      "city": "Karachi",
+      "countryCode": "PK",
+      "region": "Sindh"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "attaullahshafiq10",
+        "url": "https://github.com/attaullahshafiq10"
+      },
+      {
+        "network": "linkedin",
+        "username": "attaullahshafiq10",
+        "url": "https://www.linkedin.com/in/attaullah-shafiq-18013917b/"
+      },
+      {
+        "network": "twitter",
+        "username": "iamAttaullah10",
+        "url": "www.twitter.com/iamAttaullah10"
+      },
+      {
+        "network": "instagram",
+        "username": "iamattaullah10",
+        "url": "http://instagram.com/iamattaullah10"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Internet of Things & Green IoT",
+      "keywords": [
+        "Security",
+        "Protocols"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "MATLAB",
+        "C++",
+        "Java",
+        "Javascript",
+        "Python",
+        "HTML5/CSS"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "FET, University of Sindh, Jamshoro",
+      "area": "Telecommunications",
+      "studyType": "B.S.",
+      "startDate": "2018-01-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Dawaat E-Magagize",
+      "position": "Web Developer and Writer",
+      "website": "",
+      "startDate": "2020-03-03",
+      "endDate": "Present",
+      "summary": "Administration and Web Devolopment",
+      "highlights": [
+        "Maintain, update, and oversee official E-Magazine newspaper website",
+        "Drive, design and build writers-community projects for Dawaat"
+      ]
+    },
+    {
+      "company": "SysTech Engg: Solutions",
+      "position": "Internee",
+      "website": "http://www.sysstech/",
+      "startDate": "2019-06-01",
+      "endDate": "2019-07-02",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Antennas system and site survey"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
